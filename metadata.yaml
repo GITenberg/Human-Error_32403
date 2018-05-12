@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25386
     wikipedia: http://en.wikipedia.org/wiki/Raymond_F._Jones
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32403#Human-Error
 gutenberg_issued: '2010-05-17'
 gutenberg_type: Text
 identifiers:
